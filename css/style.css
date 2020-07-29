@@ -1,0 +1,17 @@
+.square {
+    display: inline-block;
+    border: 0.5px dotted black;
+    box-sizing: border-box;	
+}
+
+.container {
+    height: 1000px;
+    width: 1000px;
+    font-size: 0;
+    margin: auto;
+}
+
+#reset-btn {
+    margin: 50px 0 0 50px;  
+}
+
